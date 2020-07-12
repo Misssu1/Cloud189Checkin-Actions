@@ -20,13 +20,13 @@
 示例：
 **USER**
 ```
-123456
-24678
+17568112146
+
 ```
 **PWD**
 ```
-cxkjntm
-jntmcxk
+Lileyuan1
+
 ```
 ![](http://tu.yaohuo.me/imgs/2020/06/748bf9c0ca6143cd.png)
 ![](http://tu.yaohuo.me/imgs/2020/06/af2013b1ef5d8430.png)
